@@ -15,7 +15,7 @@ I'm a Cyber Security enthusiast and always open to learning.
 
 ## 💻 Skills
 - **Programming Languages:** Python, C++
-- **Cyber Security:** (add tools/skills here if you’d like later, e.g., Penetration Testing, Linux, Networking, etc.)
+- **Cyber Security:** Penetration Testing, Linux, Networking
 
 ---
 

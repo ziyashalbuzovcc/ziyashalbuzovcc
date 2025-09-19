@@ -7,6 +7,9 @@
 <!-- Cisco Networking Academy Ethical Hacker Badge -->
 <img src="images/cisco-ethical-hacker-badge.png" alt="Cisco Networking Academy - Ethical Hacker Verified Badge" width="180" />
 
+<!-- Cisco Networking Academy Cybersecurity Badge -->
+<img src="images/cisco-cybersecurity-badge.png" alt="Cisco Networking Academy - Cybersecurity Verified Badge" width="180" />
+
 ---
 
 ## 💻 Coding

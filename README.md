@@ -1,4 +1,4 @@
-# Hi, I'm Ziya 🤖
+# Hi, I'm Ziya
 
 ---
 
